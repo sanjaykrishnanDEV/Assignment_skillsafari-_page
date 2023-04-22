@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+.container{
+    margin: 0px;
+    font-style: 'poppins';
+    height: 500px;
+    width: auto;
+    align-items: center;
+    padding: 25px 25px;
+}
+.boxOne{
+    color: black;
+    width: 45%;
+    height: 200px;;
+    margin-top: 50px;
+    padding: 25px;
+}
+.boxTwo
+{
+    width: 50%;
+    float: right;
+    height: 580px;
+    width: 48%;
+    margin-top: -300px;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+.ione {
+     height: auto;
+     width: auto;
+}
